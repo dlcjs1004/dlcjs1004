@@ -90,16 +90,13 @@
     </div> 
   <br>
   <div align="center">
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=my-blog-app&theme=dark&icon_color=3E7B27">
-        <a href="https://github.com/dlcjs1004/my-blog-app" />
-      </img>
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=react-twitter-app&theme=dark&icon_color=3E7B27">
-        <a href="https://github.com/dlcjs1004/react-twitter-app" />
-      </img>
-  </div>
+    <a href="https://github.com/dlcjs1004/my-blog-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=my-blog-app&theme=dark&icon_color=3E7B27" />
+    </a>
+    </img>
+    <a href="https://github.com/dlcjs1004/react-twitter-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=react-twitter-app&theme=dark&icon_color=3E7B27" />
+    </a>
   <br><br>
   <div align="center">
     <img src="https://ghchart.rshah.org/dlcjs1004"/>
