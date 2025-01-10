@@ -90,8 +90,12 @@
     </div> 
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=my-blog-app&theme=dark&icon_color=3E7B27" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=react-twitter-app&theme=dark&icon_color=3E7B27" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=my-blog-app&theme=dark&icon_color=3E7B27">
+      <a href="https://github.com/dlcjs1004/my-blog-app" />
+    </img>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=react-twitter-app&theme=dark&icon_color=3E7B27">
+        <a href="https://github.com/dlcjs1004/react-twitter-app" />
+    </img>
   </div>
   <br><br>
   <div align="center">
