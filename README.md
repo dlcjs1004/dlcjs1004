@@ -85,7 +85,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ Stats </h2> 
     <div align= "center"> 
       <img src="https://github-readme-stats.vercel.app/api?username=dlcjs1004&show_icons=true&theme=shadow_green&hide=stars,contribs&border_radius=10"  /> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcjs1004&layout=compact" /> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcjs1004&layout=compact&bg_color=180,3e5b2f,00000000&title_color=ffffff&text_color=ffffff" /> 
     </div> 
   <br>
   <div align="center">
