@@ -84,13 +84,14 @@
 <div align= "center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⚡ Stats </h2> 
     <div align= "center"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=dlcjs1004&show_icons=true&theme=shadow_green&hide=stars,contribs&border_radius=10"  /> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcjs1004&layout=compact&bg_color=180,3e5b2f,00000000&title_color=ffffff&text_color=ffffff" /> 
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=dlcjs1004&show_icons=true&theme=shadow_green&hide=stars,contribs&border_radius=10"  />  -->
+      <img src="https://github-readme-stats.vercel.app/api?username=dlcjs1004&show_icons=true&hide=stars,contribs&border_radius=10&bg_color=180,A9C46C,00000000&title_color=5D8736&text_color=ffffff&icon_color=F4FFC3"  /> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcjs1004&layout=compact&bg_color=180,809D3C,00000000&title_color=ffffff&text_color=ffffff" /> 
     </div> 
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=my-blog-app&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=react-twitter-app&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=my-blog-app&theme=dark&icon_color=3E7B27" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dlcjs1004&repo=react-twitter-app&theme=dark&icon_color=3E7B27" />
   </div>
   <br><br>
   <div align="center">
